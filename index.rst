@@ -14,6 +14,7 @@ Welcome to Shinx-Project's documentation!
    math
    mdsample
    project_management/index.rst
+   image_test
 
 Indices and tables
 ==================
